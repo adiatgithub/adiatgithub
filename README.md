@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm Aditi Sahu<br>🚀 AI | Machine Learning | Product Enthusiast<br><br>I'm a third-year B.Tech student passionate about building<br> AI-powered applications, solving real-world problems, and continuously learning new technologies. <br>I enjoy working at the intersection of Artificial Intelligence, Data Science, Product Thinking, and Software Development.<br><br>Tech Stack<br>Languages<br>Java<br>Python<br>SQL<br>HTML<br>CSS<br>Machine Learning & AI<br>Scikit-learn<br>OpenCV<br>YOLO<br>Pandas<br>NumPy<br>Matplotlib<br>Data & Analytics<br>Power BI<br>Excel<br>Data Analysis<br>Data Visualization<br>Development<br>Git<br>GitHub<br>Streamlit<br>VS Code<br>🚀 Featured Projects<br>🔹 AI Visual Assistant<br><br>A real-time object detection system built using YOLO and OpenCV that detects surrounding objects through a webcam and assists users with visual awareness.<br><br>Tech Used<br><br>Python<br>YOLO<br>OpenCV<br>Streamlit<br>🔹 Customer Churn Prediction<br><br>Machine Learning model that predicts customer churn using data preprocessing, feature engineering, and classification algorithms.<br><br>Highlights<br><br>Data Cleaning & EDA<br>Feature Engineering<br>Model Training & Evaluation<br>Interactive Prediction Interface<br>📈 Currently Learning<br>Generative AI<br>Retrieval-Augmented Generation (RAG)<br>Backend Development<br>System Design<br>Product Management<br>Connect With Me<br>💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN<br>📧 Email: YOUR_EMAIL<br>
+I'm Aditi Sahu<br>🚀 AI | Machine Learning | Product Enthusiast<br><br>I'm a third-year B.Tech student passionate about building<br> AI-powered applications, solving real-world problems, and continuously learning new technologies. <br>I enjoy working at the intersection of Artificial Intelligence, Data Science, Product Thinking, and Software Development.<br><br>Tech Stack
+<br>Languages<br>
+Java<br>Python<br>SQL<br>HTML<br>CSS
+<br>Machine Learning & AI<br>
+Scikit-learn<br>OpenCV<br>YOLO<br>Pandas<br>NumPy<br>Matplotlib
+<br>Data & Analytics<br>
+Power BI<br>Excel<br>Data Analysis<br>Data Visualization
+<br>Development<br>
+Git<br>GitHub<br>Streamlit<br>VS Code
+<br>🚀 Featured Projects<br>
+🔹 AI Visual Assistant<br><br>A real-time object detection system built using YOLO and OpenCV that detects surrounding objects through a webcam and assists users with visual awareness.<br><br>Tech Used<br><br>Python<br>YOLO<br>OpenCV<br>Streamlit<br>🔹 Customer Churn Prediction<br><br>Machine Learning model that predicts customer churn using data preprocessing, feature engineering, and classification algorithms.<br><br>Highlights<br><br>Data Cleaning & EDA<br>Feature Engineering<br>Model Training & Evaluation<br>Interactive Prediction Interface<br>📈 Currently Learning<br>Generative AI<br>Retrieval-Augmented Generation (RAG)<br>Backend Development<br>System Design<br>Product Management<br>Connect With Me<br>💼 LinkedIn:www.linkedin.com/in/aditi-sahu-workspace05<br>📧 Email: aditi.workspace13@gmail.com<br>
 
 
 ## 🌐 Socials:
