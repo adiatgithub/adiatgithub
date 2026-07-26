@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm Aditi Sahu<br>🚀 AI | Machine Learning | Product Enthusiast<br><br>I'm a third-year B.Tech student passionate about building<br> AI-powered applications, solving real-world problems, and continuously learning new technologies. <br>I enjoy working at the intersection of Artificial Intelligence, Data Science, Product Thinking, and Software Development.
+I'm Aditi Sahu<br>🚀 AI | Machine Learning | Product Enthusiast<br><br>I'm a third-year B.Tech student passionate about building AI-powered applications, solving real-world problems, and continuously learning new technologies. <br>I enjoy working at the intersection of Artificial Intelligence, Data Science, Product Thinking, and Software Development.
 
 <br>📈 Currently Learning<br>Generative AI<br>Retrieval-Augmented Generation (RAG)<br>Backend Development<br>System Design<br>Product Management<br>Connect With Me<br>💼 LinkedIn:www.linkedin.com/in/aditi-sahu-workspace05<br>📧 Email: aditi.workspace13@gmail.com<br>
 
